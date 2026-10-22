@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+profile.pdf
+profile.txt
+SETUP.md
+assets/source/
