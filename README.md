@@ -31,7 +31,7 @@
 React · Next.js · TypeScript를 중심으로 금융·ERP·산업 운영 시스템을 개발하며,
 업무 흐름을 이해하고 데이터와 사용자 사이를 연결하는 화면을 만듭니다.
 
-- **금융·산업 도메인 경험** — 은행 인증·로그인, 보험 업무, 부동산 금융 ERP부터 수급 스케줄링과 IoT 관제까지 다양한 업무 시🌿🍀스템을 개발했습니다.
+- **금융·산업 도메인 경험** — 은행 인증·로그인, 보험 업무, 부동산 금융 ERP부터 수급 스케줄링과 IoT 관제까지 다양한 업무 시스템을 개발했습니다.
 - **데이터 시각화와 실시간 UI** — 차트·지도·그리드·SVG를 활용해 복잡한 운영 데이터를 읽기 쉬운 화면으로 구성합니다.
 - **데이터 흐름을 따라가는 문제 해결** — API 연계, Spring Boot 로그 분석, SQL 조회를 통해 프론트엔드와 백엔드를 함께 살펴봅니다.
 - **현재** — KB국민은행 코어뱅킹 현대화 프로젝트에서 개인뱅킹 로그인·회원가입 업무 분석과 Next.js 기반 선도개발에 참여하고 있습니다. _(2026.08 ~)_
@@ -45,7 +45,7 @@ React · Next.js · TypeScript를 중심으로 금융·ERP·산업 운영 시스
 </div>
 
 <details>
-<summary><b>영역별 사용 기술 자세히 보기</b></summary>
+<summary><b>Tech Details</b></summary>
 
 <br>
 
@@ -152,6 +152,6 @@ React · Next.js · TypeScript를 중심으로 금융·ERP·산업 운영 시스
 
 <div align="center">
 
-<sub>`Built with love · @hyejoy`</sub>
+<sub>`Built with love · @hye_jo@kakao.com`</sub>
 
 </div>
