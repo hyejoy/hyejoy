@@ -40,7 +40,9 @@ React · Next.js · TypeScript를 중심으로 금융·ERP·산업 운영 시스
 
 ## Tech stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,redux,tailwind,styledcomponents,java,spring,git,gitlab,vscode&perline=7" alt="tech stack">
+<!-- skillicons has no SAP icon: row 2 = 5 skillicons + assets/skill-sap.svg (2 tiles), no space between the imgs -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,redux,tailwind" alt="tech stack"><br>
+<img src="https://skillicons.dev/icons?i=styledcomponents,java,spring,git,gitlab" alt="tech stack"><img src="assets/skill-sap.svg" alt="SAP BO, SAP BW">
 
 </div>
 

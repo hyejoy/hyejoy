@@ -1,0 +1,23 @@
+<!-- SAP BO / SAP BW tiles styled like skillicons.dev (dark), to sit right after a 5-icon skillicons row -->
+<svg width="112.5" height="48" viewBox="0 0 600 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sap" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00B8F1"/>
+      <stop offset="1" stop-color="#1E5FBB"/>
+    </linearGradient>
+    <g id="logo">
+      <polygon points="0,0 180,0 90,90 0,90" fill="url(#sap)"/>
+      <text x="14" y="66" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">SAP</text>
+    </g>
+  </defs>
+  <g transform="translate(44 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <use href="#logo" x="38" y="48"/>
+    <text x="128" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">BO</text>
+  </g>
+  <g transform="translate(344 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <use href="#logo" x="38" y="48"/>
+    <text x="128" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">BW</text>
+  </g>
+</svg>
