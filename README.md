@@ -152,6 +152,6 @@ React · Next.js · TypeScript를 중심으로 금융·ERP·산업 운영 시스
 
 <div align="center">
 
-<sub>`Built with love · @hye_jo@kakao.com`</sub>
+<sub>`Built with love · hye_jo@kakao.com`</sub>
 
 </div>
